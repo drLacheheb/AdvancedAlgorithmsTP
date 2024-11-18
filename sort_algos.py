@@ -6,6 +6,7 @@
 
 ## TODO: Sort Algorithms implementations
 ## TODO: Selection Sort is our task now
+## Yacine was doing something
 def selection_sort(arr):
     comparison_count = 0
     move_count = 0
